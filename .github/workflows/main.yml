@@ -4,7 +4,7 @@
   uses: Legion2/download-release-action@v2.1.0
   with:
     # The repository from where to download the files.
-Given as <user>/<repository>
+Given as "Weak Aura Update"
 
     repository: 
     # The version tag of the release
